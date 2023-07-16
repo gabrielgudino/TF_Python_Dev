@@ -1,5 +1,7 @@
 # Automatización del traspaso de datos de una instancia SQL a BigQuery
 
+> **Módulo 2: Python Data Engineer**
+
 <p align="center">
   <img src="https://softr-prod.imgix.net/applications/b5cdb0d1-ba69-48f8-961f-8a89c9e7b1fd/assets/33448eb3-f23f-4e71-a164-872d3ec70526.png" alt="Módulo 2: Python Data Engineer | Datapath">
 </p>
@@ -53,5 +55,5 @@ documentación explicando cómo usar su solución?
 El proyecto debe ser entregado antes del Domingo 23 de Julio. 
  
 ## Forma de entrega: 
-• Incluir todos los puntos solicitados en un artículo de Medium. 
+• Incluir todos los puntos solicitados en un artículo de Medium.
 • Los estudiantes deben subir su proyecto a un repositorio en GitHub.

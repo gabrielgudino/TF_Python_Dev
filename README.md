@@ -57,3 +57,6 @@ El proyecto debe ser entregado antes del Domingo 23 de Julio.
 ## Forma de entrega: 
 • Incluir todos los puntos solicitados en un artículo de Medium.
 • Los estudiantes deben subir su proyecto a un repositorio en GitHub.
+
+NOTA 1: Cambiar el archivo .env.template a .env y completar con las credenciales
+NOTA 2: Copiar el archivo .json para acceder a BigQuery

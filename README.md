@@ -6,6 +6,8 @@
   <img src="https://softr-prod.imgix.net/applications/b5cdb0d1-ba69-48f8-961f-8a89c9e7b1fd/assets/33448eb3-f23f-4e71-a164-872d3ec70526.png" alt="Módulo 2: Python Data Engineer | Datapath">
 </p>
 
+> Las respuestas a la ejercitación se encuentran en el notebook **"proyecto_funciones.ipynb"**
+
 ## Descripción general: 
 La tarea consiste en desarrollar una solución automatizada que permita el traspaso de 
 datos desde una instancia SQL hacia BigQuery. La solución debe incluir las funciones 
@@ -58,5 +60,7 @@ El proyecto debe ser entregado antes del Domingo 23 de Julio.
 • Incluir todos los puntos solicitados en un artículo de Medium.
 • Los estudiantes deben subir su proyecto a un repositorio en GitHub.
 
+
 NOTA 1: Cambiar el archivo .env.template a .env y completar con las credenciales
-NOTA 2: Copiar el archivo .json para acceder a BigQuery
+
+NOTA 2: Copiar el archivo .json necesario para acceder a BigQuery
